@@ -8,14 +8,11 @@ map_params = {
         'H': 'HergonScout',
         'M': 'Monokh'
     },
-
-	
-	
     'chars': [
         {
             'class': 'G',
             'type': 'enemy',
-            'position': (13, 30),
+            'position': (10, 30),
             'drop': ['hp_potion', 'cloak', 'hat']
         },
         {
