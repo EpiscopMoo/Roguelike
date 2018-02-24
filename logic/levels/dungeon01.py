@@ -9,6 +9,8 @@ map_params = {
         'M': 'Monokh'
     },
 
+	
+	
     'chars': [
         {
             'class': 'G',
