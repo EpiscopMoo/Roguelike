@@ -13,7 +13,7 @@ map_params = {
         {
             'class': 'G',
             'type': 'enemy',
-            'position': (10, 30),
+            'position': (11, 30),
             'drop': ['hp_potion', 'cloak', 'hat']
         },
         {
